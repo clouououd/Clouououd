@@ -1,5 +1,5 @@
 # 💫About Me
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;백엔드 예비 개발자 김정관 입니다. 
+### &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;백엔드 예비 개발자 김정관 입니다. 
 
 <br>
 
