@@ -1,9 +1,9 @@
-# 💫About Me
+# 🙋‍♂️About Me
 ### &nbsp; &nbsp; &nbsp; &nbsp;백엔드 예비 개발자 김정관 입니다. 
 
 <br>
 
-# 💻Tech Stack
+# 📃Tech Stack
 #### 📚 Frameworks, Platforms and Libraries
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 #### 💻 IDEs/Editors
